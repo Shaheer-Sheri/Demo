@@ -1,4 +1,4 @@
 # Demo
 This is my first Repo
 <br>
-Auhtor - Shaheer
+Auhtor - Shaheer-Sheri
